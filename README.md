@@ -1,11 +1,9 @@
 <img src="PokeGuide.jpeg" alt="PokeGuide Logo" width="350" height="350">
 
-# Team 37
+# Team Project
 <span style="font-size: 20px; color: turquoise;">
-Arnav Sharma <br>
-Hardik Chadha <br>
-Hiten Garg <br>
-Tejas Garg
+
+Tejas Garg 
 </span>
 <br><br><br>
 
