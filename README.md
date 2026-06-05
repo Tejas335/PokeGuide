@@ -2,10 +2,10 @@
 
 # Team 37
 <span style="font-size: 20px; color: turquoise;">
-Arnav Sharma 2023111033<br>
-Hardik Chadha 2023111031<br>
-Hiten Garg 2023101116<br>
-Virat Garg 2023101081
+Arnav Sharma <br>
+Hardik Chadha <br>
+Hiten Garg <br>
+Tejas Garg
 </span>
 <br><br><br>
 
